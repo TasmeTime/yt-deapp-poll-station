@@ -1,0 +1,8 @@
+/backend/build
+/backend/.vscode
+/frontend/node_modules
+/backend/node_modules
+/backend/node_modules/*
+/frontend/src/artifacts/*
+/backend/.env
+/frontend/.env
